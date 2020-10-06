@@ -5,6 +5,6 @@
 
 # Screen Grabs of my Sumamry DF
 - District Summary
-/Users/mquinton/Desktop/Screen Shot 2020-10-06 at 5.10.25 PM.png
+![District Summary] /Users/mquinton/Desktop/Screen Shot 2020-10-06 at 5.10.25 PM.png
 - By School Summary
-/Users/mquinton/Desktop/Screen Shot 2020-10-06 at 5.02.04 PM.png
+![By School Summary] (/Users/mquinton/Desktop/Screen Shot 2020-10-06 at 5.02.04 PM.png)
