@@ -4,7 +4,4 @@
 - My write up is in the notebook at the very end as a Markdown
 
 # Screen Grabs of my Sumamry DF
-- District Summary
-![District Summary] /Users/mquinton/Desktop/Screen Shot 2020-10-06 at 5.10.25 PM.png
-- By School Summary
-![By School Summary] (/Users/mquinton/Desktop/Screen Shot 2020-10-06 at 5.02.04 PM.png)
+- My snapshots of my summary tables are uploaded as an issue
